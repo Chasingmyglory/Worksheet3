@@ -1,5 +1,5 @@
 /*
- * @Authors: George Naous, Mohammad Raisul Hasan Shamim, Azizul Hakim
+ * @Authors:  Mohammad Raisul Hasan Shamim
  * @Date: 10.01.2022
  * Purpose: AdjacencyMatrix class, to create a a 2D array that represents edges between vertices
  * 1 means there is an edge and 0 means there is not
