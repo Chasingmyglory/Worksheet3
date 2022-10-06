@@ -1,5 +1,5 @@
 /*
- * @Authors: George Naous, Mohammad Raisul Hasan Shamim, Azizul Hakim
+ * @Authors:  Mohammad Raisul Hasan Shamim
  * @Date: 10.01.2022
  * Purpose: Graph class, to create a graph structure for storing connected data
  * the graph consists of vertices and edges to represent connections between data entities (integers in this case)
